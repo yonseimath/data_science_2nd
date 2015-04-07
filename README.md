@@ -33,9 +33,7 @@ http://www.hanbit.co.kr/book/look.html?isbn=978-89-6848-135-2
 	     - EC2
 	     - S3
 	     - RedShift
-     - Google Cloud Platform
-	     - BigQuery
+	     - Amazon Elastic MapReduce
      - Microsoft Azure
-	     - HDInsight
 	     - AzureML
 
