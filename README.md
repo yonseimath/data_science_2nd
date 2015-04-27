@@ -31,12 +31,11 @@ http://www.hanbit.co.kr/book/look.html?isbn=978-89-6848-135-2
      - python
      - R
      - SQL
-     - Cloud computing
-             - AWS
-	             - EC2
-	             - S3
-	             - RedShift
-	             - Amazon Elastic MapReduce
+     - AWS
+	- EC2
+	- S3
+	- RedShift
+	- Amazon Elastic MapReduce
      - Machine learning
-	     - AzureML
+	- AzureML
 
